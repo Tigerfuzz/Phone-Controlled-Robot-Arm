@@ -1,5 +1,6 @@
 ﻿# Phone-Controlled Robot Arm
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+
+The project I chose was to build and operate a robot arm using an Arduino and servo motors. The goal is to be able to control the arm through Bluetooth using a mobile app. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|

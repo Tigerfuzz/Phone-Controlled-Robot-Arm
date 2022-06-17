@@ -4,7 +4,7 @@ The project I chose was to build and operate a robot arm using an Arduino and se
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Atri Shankar | Lick-Wilmerding High School | Electrical Engineering and Computer Science | Incoming Junior
+| Atri | Lick-Wilmerding High School | Electrical Engineering and Computer Science | Incoming Junior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   

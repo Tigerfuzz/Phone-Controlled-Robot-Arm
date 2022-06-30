@@ -6,7 +6,7 @@ The project I chose was to build and operate a robot arm using an Arduino and se
 |:--:|:--:|:--:|:--:|
 | Atri | Lick-Wilmerding High School | Electrical Engineering and Computer Science | Incoming Junior
 
-![Headstone Image](https://drive.google.com/file/d/1r1qf4G9yyITsFaf2sNFyIL747exrUfO7/view?usp=sharing)
+<a href="https://ibb.co/PFwLcvG"><img src="https://i.ibb.co/Jm51vwj/IMG-9354.jpg" alt="IMG-9354" border="0"></a>
 
 Code for bluetooth control with the HC-05 bluetooth module and an Android device:
 

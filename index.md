@@ -161,7 +161,7 @@ if(newLineReceived)
 }
 ```
 
-Code for the PS2 joystick sensor modification:
+Code for my PS2 joystick sensor modification:
 
 ```
 #include <Servo.h> // add the servo libraries
@@ -329,7 +329,7 @@ pos3=135;
 }
 ```
 
-Code for potentiometer control modification:
+Code for my potentiometer control modification:
 
 ```
 #include<Servo.h>

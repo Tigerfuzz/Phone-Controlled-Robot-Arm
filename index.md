@@ -374,14 +374,17 @@ void loop() {
 ```
   
 # Final Milestone
+
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
 [![BSE Robot Arm Milestone 3 Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1656609734/video_to_markdown/images/youtube--FK1h6P_xT9c-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/FK1h6P_xT9c "BSE Robot Arm Milestone 3 Video"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My second milestone was fully assembling my robot arm and operating it via potentiometers. I separated all my screws into their various lengths and then went step by step and assembled my robot. 
+
+My second milestone was fully assembling my robot arm and operating it via potentiometers. I started with separating all my screws into their various lengths and went step by step assembling my robot. I then mounted my Arduino onto the bottom plate of my robot, and connected my 4 servos and HC-05 bluetooth sensor to the sensor shield v5 board on top. After testing the ranges of motion for each of the servos in my robot arm, I wired four potentiometers to my sensor shield board's analog, ground and VCC pins, and wrote a program that would read the values of the potentiometers and convert those readings into positions for my servos. Some challenges I ran into were with assembly, as there were many different lengths of screws and types of nuts, and I had mixed some of the placements of certain screws up. Because of this, I had to redo parts of my assembly, which took more time. Lock nuts were also very hard to fully screw in, and took lots of effortand time as well. 
 
 [![BSE Robot Arm Milestone 2 Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1656382959/video_to_markdown/images/youtube--w-pROEpOCPA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/w-pROEpOCPA "BSE Robot Arm Milestone 2 Video"){:target="_blank" rel="noopener"}
+
 # First Milestone
  
 My first milestone was setting up and hooking up the Arduino Uno with a servo and a Bluetooth reciever. I first started with connecting my Arduino board with another board called the Arduino Sensor Shield v5, the sensor shield on top of the arduino. This will allow me to connect multiple servos at once very easily. I connected one servo to the sensor shield board and connected my Arduino to my computer to make sure my servo worked properly. I wrote a simple program to rotate a servo back and forth to test its range of motion and to experiment with coding servos. I ran into a couple of issues along the way. The first was from getting the error "Compilationerror: error 13 INTERNAL", which came from not having the servo library installed. My other issue was with the sensor shield board, as when I connected a servo to the proper pins on the board, sometimes the servo would be unresponsive. I easily fixed this by using a different servo.
